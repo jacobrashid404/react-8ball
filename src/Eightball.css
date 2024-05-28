@@ -9,6 +9,7 @@
   height: 400px;
   text-align: center;
   font-size: 24pt;
+  cursor: pointer;
 }
 
 .Eightball b {

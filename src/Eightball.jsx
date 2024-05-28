@@ -32,7 +32,7 @@ function Eightball({ answers }) {
       <div
           onClick={handleClick}
           style={{ backgroundColor: answer.color}}
-          >
+      >
         <b>{ answer.msg }</b>
       </div>
     </div>
