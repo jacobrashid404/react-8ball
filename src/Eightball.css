@@ -1,0 +1,17 @@
+.Eightball {
+  text-align: center;
+}
+
+.Eightball div {
+  color: white;
+  border-radius: 50%;
+  width: 400px;
+  height: 400px;
+  text-align: center;
+  font-size: 24pt;
+}
+
+.Eightball b {
+  vertical-align: middle;
+  line-height: 400px;
+}
