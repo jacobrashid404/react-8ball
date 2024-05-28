@@ -1,4 +1,5 @@
 import './App.css';
+import EightBall from './EightBall.jsx';
 
 
 /** Component for entire page.
